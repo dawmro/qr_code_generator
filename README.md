@@ -1,6 +1,8 @@
 # qr_code_generator
 Generate QR Codes form links.
 
+![alt text](https://github.com/dawmro/qr_code_generator/blob/main/images/app_view.png?raw=true)
+
 ## Setup:
 1. Create new virtual env:
 ``` sh
